@@ -56,19 +56,19 @@ class MainApp extends StatelessWidget {
                     children: const [
                       Column(
                         children: [
-                          Icon(Icons.save, color: Colors.black),
+                          Icon(Icons.save, color: Colors.blue),
                           Text('SAVE'),
                         ],
                       ),
                       Column(
                         children: [
-                          Icon(Icons.download, color: Colors.black),
+                          Icon(Icons.download, color: Colors.blue),
                           Text('DOWNLOAD'),
                         ],
                       ),
                       Column(
                         children: [
-                          Icon(Icons.share, color: Colors.black),
+                          Icon(Icons.share, color: Colors.blue),
                           Text('SHARE'),
                         ],
                       ),
